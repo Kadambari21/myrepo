@@ -1,1 +1,2 @@
 Initial content of the text file.
+Added new content to the text file.
